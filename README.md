@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://progressivebudget.netlify.app">Demo</a> -->
+<a href="https://progressivebudget.netlify.app">Demo</a>
 </div>
 
 <h1 align="center">Progressive Budget</h1>
