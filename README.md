@@ -62,18 +62,18 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/progressive-budget
+$ git clone https://github.com/daniarinker/progressive-budget
 
 # Access
 $ cd progressive-budget
 
 # Install dependencies
-$ yarn
+$ npm i
 
 # Run the project
-$ yarn start
+$ node server.js
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:8080>
 ```
 
 Made with :heart: by <a href="https://github.com/daniarinker" target="_blank">Dania Rinker</a>
