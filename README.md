@@ -73,7 +73,7 @@ $ npm i
 # Run the project
 $ node server.js
 
-# The server will initialize in the <http://localhost:8080>
+# The server will initialize in the <http://localhost:3000>
 ```
 
 Made with :heart: by <a href="https://github.com/daniarinker" target="_blank">Dania Rinker</a>
