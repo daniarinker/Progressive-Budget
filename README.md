@@ -9,8 +9,6 @@
 
   <img alt="License" src="https://img.shields.io/github/license/daniarinker/progressive-budget?color=56BEB8">
 
-Status
-
 <h4 align="center"> 
 	🚧  Progressive Budget 🚀 Under construction...  🚧
 </h4>
