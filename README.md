@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/daniarinker/progressive-budget?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languagesdaniarinker/progressive-budget?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/daniarinker/progressive-budget?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/daniarinker/progressive-budget?color=56BEB8">
 
