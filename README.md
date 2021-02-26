@@ -41,19 +41,18 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 1;\ Offline functionality for budgeting expenses
+:heavy_check_mark: Feature 2;\ 
 :heavy_check_mark: Feature 3;
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [VS Code](https://code.visualstudio.com/)
 
 ## :white_check_mark: Requirements
 
