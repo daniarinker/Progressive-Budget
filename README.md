@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Progressive Budget" />
-
-  &#xa0;
-
-  <!-- <a href="https://progressivebudget.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Progressive Budget</h1>
 
 <p align="center">
